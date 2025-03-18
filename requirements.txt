@@ -1,9 +1,7 @@
 openai==1.51.2
 qdrant-client==1.12.1
 python-dotenv==0.21.0
-pydub==0.25.1
 streamlit==1.38.0
-streamlit-audiorecorder==0.0.6
 pandas==2.2.3
 pycaret==3.3.2
 pillow==10.4.0
